@@ -22,7 +22,7 @@ If you are a CTF Player or just a curious student with just learning purposes th
 # Errors? Updates?
 
 As this is a very big tool, and I created it alone there might be some errors in it, if you get an error,
-or some functionality of the tool is not working for you please contact as soon as possible with me though telegram (@LockedByte), email (alejandro.guerrero.rodriguez2@gmail.com) or just open it in gitHub. I'll patch all these errors quickly.
+or some functionality of the tool is not working for you please contact as soon as possible with me through telegram (@LockedByte), email (alejandro.guerrero.rodriguez2@gmail.com) or just open it in gitHub. I'll patch all these errors quickly.
 
 # Dependencies? Setup? Installing?
 
