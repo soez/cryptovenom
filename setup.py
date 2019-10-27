@@ -42,7 +42,8 @@ else:
     print('[INFO] Copying main file...')
     os.system('cp aux/cryptovenom.py cryptovenom.py')
     os.system('sudo chmod 777 cryptovenom.py')
-
+print('[INFO] Exec: sudo apt-get update')
+os.system('sudo apt-get update')
 print('[INFO] Installing apt-get based dependencies...')
 os.system('sudo apt-get install build-essential libssl-dev python-dev python-scrypt')
 
