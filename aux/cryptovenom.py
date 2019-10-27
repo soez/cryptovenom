@@ -648,7 +648,7 @@ def menu(menu):
     
             os.system('python modules/hash/blake2b/menu.py auto')
         
-        elif option == '12':
+        elif option == '13':
     
             os.system('python modules/hash/blake2s/menu.py auto')
     
